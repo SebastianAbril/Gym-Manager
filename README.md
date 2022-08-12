@@ -1,2 +1,4 @@
-# Gym-Training-App
-Awesome project where you can be the best version of yourself
+# Gym-Manager
+Awesome project where you can administrate your Gym!
+
+Check for the user's suscription.
