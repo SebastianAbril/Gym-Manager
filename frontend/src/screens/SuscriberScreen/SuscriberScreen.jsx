@@ -1,1 +1,3 @@
-export const SuscriberScreen = () => {};
+export const SuscriberScreen = () => {
+  <div className="SuscriberScreen">SUSCRIBERS SCREEN</div>;
+};
